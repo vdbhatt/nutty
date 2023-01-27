@@ -1,0 +1,15 @@
+venv/
+.eggs/**
+github_repos/
+test/riscof_work/
+test/rv_compliance/riscv-arch-test/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.installed.cfg
+*.egg
+test/fpga_work/
+test/sw/build/
+*.vcd
+*.o

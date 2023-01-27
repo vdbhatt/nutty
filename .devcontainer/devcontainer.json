@@ -1,0 +1,5 @@
+{
+    "name": "nutty_rv_compliance",
+    "image": "registry.gitlab.com/incoresemi/docker-images/compliance:latest",
+    "remoteUser": "root"
+}
